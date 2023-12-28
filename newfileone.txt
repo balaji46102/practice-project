@@ -13,11 +13,3 @@ public static void m2()
 by the hyd developer
  
 
- 
-
-  //task1
-public static void main()
-{ 
-  //logic
-}
->>>>>>> Stashed changes
