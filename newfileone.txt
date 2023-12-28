@@ -3,7 +3,7 @@ by tomorrow it will be completed
  
 by the admin people
 
-<<<<<<< HEAD
+
  //task2
 public static void m2()
 { 
@@ -12,4 +12,4 @@ public static void m2()
 =======
 by the hyd developer
  
->>>>>>> 821fe2b99920f11c117190779eabfe916a2c7975
+
