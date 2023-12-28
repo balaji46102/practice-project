@@ -1,3 +1,9 @@
 hi welcome..
 by tomorrow it will be completed
 by the admin people
+
+ //task2
+public static void m2()
+{ 
+  //logic
+}
